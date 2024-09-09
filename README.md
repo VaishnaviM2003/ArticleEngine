@@ -50,6 +50,7 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    pip install -r requirements.txt
 3. **Add Environment Variables**
+   
    You might need to configure environment variables (e.g., paths for saving logs) if necessary.
 
 ## Usage
@@ -71,7 +72,7 @@ The app will open in your web browser. You can scrape data and generate unique a
   ```plaintext
 ai-topic-scraper/
 │
-├── streamlit_app.py                 # Main Streamlit application
+├── streamlit_app.py       # Main Streamlit application
 ├── scraper.py             # Script for scraping website data
 ├── content_generator.py   # Logic for generating structured articles
 ├── uniqueness_checker.py  # Hash-based uniqueness checker
