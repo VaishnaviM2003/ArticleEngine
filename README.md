@@ -45,11 +45,11 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    git clone https://github.com/https://github.com/VaishnaviM2003/ArticleEngine/ArticleEngine.git
    cd ArticleEngine
-2. ** Install dependencies**
+2. **Install dependencies**
 
    ```bash
    pip install -r requirements.txt
-3. ** Add Environment Variables**
+3. **Add Environment Variables**
    You might need to configure environment variables (e.g., paths for saving logs) if necessary.
 
 ## Usage
